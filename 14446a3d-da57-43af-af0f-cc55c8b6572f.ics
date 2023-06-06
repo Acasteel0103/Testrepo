@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+PRODID:-//Coursera//Learner Calendar 1.0//EN
+NAME:Coursera Calendar - Amber Casteel - amberxavior@gmail.com
+X-WR-CALNAME:Coursera Calendar - Amber Casteel - amberxavior@gmail.com
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20230606T135240Z
+DTSTART:20230612T060059Z
+DTEND:20230612T065959Z
+SUMMARY:Assignment Due -- Getting Started with Git and GitHub
+UID:qpVajkliEeyq9Q4Bl6meLw~NtoFW~YztLf
+DESCRIPTION:Getting Started with Git and GitHub -- Week 1\nhttps://www.co
+ ursera.org/learn/getting-started-with-git-and-github/home/week/1\n\nYou 
+ have 1 item due\n - Graded Quiz: Getting Started with Git and GitHub\n\n
+ Stay on track by completing your assignment now!
+BEGIN:VALARM
+TRIGGER;VALUE=DATE-TIME:20230611T160059Z
+ACTION:DISPLAY
+DESCRIPTION:Event Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER;VALUE=DATE-TIME:20230609T070059Z
+ACTION:DISPLAY
+DESCRIPTION:Event Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230606T135240Z
+DTSTART:20230619T060059Z
+DTEND:20230619T065959Z
+SUMMARY:Assignment Due -- Getting Started with Git and GitHub
+UID:qpVajkliEeyq9Q4Bl6meLw~Ai44i~eTeLl
+DESCRIPTION:Getting Started with Git and GitHub -- Week 2\nhttps://www.co
+ ursera.org/learn/getting-started-with-git-and-github/home/week/2\n\nYou 
+ have 1 item due\n - Graded Quiz: GitHub Workflows with Branches and Git 
+ Commands\n\nStay on track by completing your assignment now!
+BEGIN:VALARM
+TRIGGER;VALUE=DATE-TIME:20230618T160059Z
+ACTION:DISPLAY
+DESCRIPTION:Event Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER;VALUE=DATE-TIME:20230616T070059Z
+ACTION:DISPLAY
+DESCRIPTION:Event Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
