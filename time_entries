@@ -1,0 +1,9 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ensemble Independent//Toggl.com pg_iCal//EN
+CALSCALE:Gregorian
+X-WR-TIMEZONE:Etc/UTC
+X-WR-CALNAME:Amber Casteel's workspace
+X-WR-CALDESC:Amber Casteel's workspace (Amber)
+
+END:VCALENDAR
